@@ -10,7 +10,7 @@ Each one of its repositories hosts a communication channel, leveraging a D2D tec
 There are lots of device-to-device technologies out there, ready to be used, such as Wi-Fi, NFC, Bluetooth etc;
 there are also lots of use-cases that could leverage those technologies, but we feel like something is missing in between.
 
-![A link layer abstraction is missing between D2D tech and opportunistic networks.](./img/missing_layer.png)
+![A link layer abstraction is missing between D2D tech and opportunistic networks.](https://raw.githubusercontent.com/Venice-D2D/.github/main/profile/img/missing_layer.png)
 
 To solve that problem, we propose the Venice framework, an abstraction layer that allows applications to manipulate communication technologies
 through the use of channels.
