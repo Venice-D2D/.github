@@ -44,4 +44,6 @@ This framework makes use of two different channel types, bootstrap channels and 
 This organization includes a demonstration app that showcases all mentioned channels; it's located here: https://github.com/Venice-D2D/venice_demo_app.
 
 Here is a video showing how channels can be leveraged to exchange data between two phones:
-![Venice D2D channels in action](https://raw.githubusercontent.com/Venice-D2D/.github/main/profile/video/demo.mp4)
+
+https://github.com/Venice-D2D/.github/assets/11993538/c05c4c3f-7d7f-47c7-bcdf-b14ed4491ef9
+
