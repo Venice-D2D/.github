@@ -28,10 +28,6 @@ This framework makes use of two different channel types, bootstrap channels and 
 
 ### Implementation
 
-#### Example app
-
-TODO
-
 #### List of communication channels
 
 ##### Bootstrap channels
@@ -42,3 +38,10 @@ TODO
 ##### Data channels
 
 * Wi-Fi (hotspot): https://github.com/Venice-D2D/wifi_data_channel
+
+#### Demo app
+
+This organization includes a demonstration app that showcases all mentioned channels; it's located here: https://github.com/Venice-D2D/venice_demo_app.
+
+Here is a video showing how channels can be leveraged to exchange data between two phones:
+![Venice D2D channels in action](https://raw.githubusercontent.com/Venice-D2D/.github/main/profile/video/demo.mp4)
